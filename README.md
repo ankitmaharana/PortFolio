@@ -147,26 +147,6 @@ The project is deployed on Vercel. To deploy your own version:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ABOUT ME -->
-
-## 👨‍💻 About Me <a name="about-me"></a>
-
-I'm **Ankit Maharana**, a passionate full-stack web developer with:
-
-- **1300+ hours** of coding experience
-- **10+ junior developers** mentored
-- **40+ projects** completed successfully
-- Expertise in **React**, **Redux**, **JavaScript**, **Ruby on Rails**, **Figma**, and **Animation Libraries**
-
-### Skills & Expertise
-
-**Frontend:** JavaScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap  
-**Backend:** Ruby on Rails, PostgreSQL  
-**Tools & Methods:** Git, GitHub, Heroku, Netlify, Mobile/Responsive Development  
-**Professional:** Teamwork, Mentoring, Project Management, Time Management, Problem Solving
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
